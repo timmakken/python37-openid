@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 setup(
     name='python37-openid',
     version='0.1',
-    packages=['myapp'],
+    packages=[''],
     description='A line of description',
     # long_description=README,
     author='tim',
