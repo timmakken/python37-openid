@@ -15,6 +15,6 @@ setup(
     url='https://github.com/timmakken/python37-openid.git',
     license='MIT',
     install_requires=[
-        'Django>=3.6',
+        'Django>=2.1.2',
     ]
 )
